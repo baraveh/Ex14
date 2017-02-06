@@ -1,5 +1,3 @@
-package Complexity;
-
 public class Ex14 {
 
 	/**
